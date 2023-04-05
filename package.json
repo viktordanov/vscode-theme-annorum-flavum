@@ -3,6 +3,10 @@
   "displayName": "Annorum Flavum",
   "description": "An accented yellow theme",
   "publisher": "viktordanov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viktordanov/vscode-theme-annorum-flavum"
+  },
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.77.0"
