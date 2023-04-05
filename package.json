@@ -1,0 +1,21 @@
+{
+  "name": "viktordanov",
+  "displayName": "annorum-flavum",
+  "description": "An accented yellow theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Annorum Flavum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Annorum Flavum-color-theme.json"
+      }
+    ]
+  }
+}
