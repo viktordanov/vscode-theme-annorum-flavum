@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#ffffff42"
+        "foreground": "#ffffff58"
       }
     },
     {
@@ -1706,7 +1706,7 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#ffffff42"
+        "foreground": "#ffffff58"
       }
     },
     {
@@ -1751,7 +1751,7 @@
         "punctuation.definition.tag.xi"
       ],
       "settings": {
-        "foreground": "#ffffff42"
+        "foreground": "#ffffff58"
       }
     },
     {
@@ -1790,14 +1790,14 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ffffff42"
+        "foreground": "#ffffff58"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#ffffff42"
+        "foreground": "#ffffff58"
       }
     },
     {
@@ -1928,7 +1928,7 @@
     "editor.findMatchBorder": "#74879f00",
     "editor.findMatchHighlightBackground": "#ffb3002a",
     "editor.findMatchHighlightBorder": "#ffffff00",
-    "editor.findRangeHighlightBackground": "#3a3d4166",
+    "editor.findRangeHighlightBackground": "#3a3d4140",
     "editor.findRangeHighlightBorder": "#ffffff00",
     "editor.rangeHighlightBackground": "#ffffff0b",
     "editor.rangeHighlightBorder": "#ffffff00",
@@ -2013,13 +2013,13 @@
     "scrollbarSlider.activeBackground": "#bfbfbf66",
     "progressBar.background": "#ebbd60",
     "widget.shadow": "#0000005c",
-    "editorWidget.foreground": "#cccccc",
-    "editorWidget.background": "#252526",
-    "editorWidget.resizeBorder": "#5F5F5F",
-    "pickerGroup.border": "#3f3f46",
-    "pickerGroup.foreground": "#ebbd60",
-    "debugToolBar.background": "#333333",
-    "debugToolBar.border": "#474747",
+    "editorWidget.foreground": "#dedede",
+    "editorWidget.background": "#151515",
+    "editorWidget.resizeBorder": "#3b3b3b",
+    "pickerGroup.border": "#3f3f4616",
+    "pickerGroup.foreground": "#ffbf00",
+    "debugToolBar.background": "#000000",
+    "debugToolBar.border": "#262626",
     "notifications.foreground": "#cccccc",
     "notifications.background": "#2B2B2B",
     "notificationToast.border": "#474747",
@@ -2095,7 +2095,7 @@
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
     "editorGutter.commentRangeForeground": "#686868",
-    "debugExceptionWidget.background": "#333333",
-    "debugExceptionWidget.border": "#474747"
+    "debugExceptionWidget.background": "#000000",
+    "debugExceptionWidget.border": "#262626"
   }
 }
